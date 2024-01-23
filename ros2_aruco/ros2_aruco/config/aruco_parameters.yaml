@@ -1,0 +1,6 @@
+/aruco_node:
+  ros__parameters:
+    marker_size: 0.5
+    aruco_dictionary_id: DICT_4X4_100
+    image_topic: /camera/image_color
+    camera_info_topic: /camera/camera_info
